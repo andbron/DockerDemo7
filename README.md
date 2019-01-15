@@ -1,4 +1,4 @@
-# DockerDemo5
+# DockerDemo7
 
 This repo displays a static graphic
 
